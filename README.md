@@ -1,7 +1,7 @@
 # Solana Mobile Stack SDK
 
 ## Introduction
-Welcome to the Solana Mobile Stack SDK. The Solana Mobile Stack provides key technologies for building Android applications that can interact with the Solana network.
+Welcome to the Solana Mobile Stack SDK. The Solana Mobile Stack provides key technologies for building Android applications that can interact with the Solana network.https://github.com/solana-mobile/solana-mobile-stack-sdk.git
 
 ## Development community
 Come and discuss the Solana Mobile Stack on our Discord: [Solana Mobile Discord](https://discord.gg/solanamobile)
