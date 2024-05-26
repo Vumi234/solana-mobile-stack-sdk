@@ -1,7 +1,7 @@
 # Solana Mobile Stack SDK
 
 ## Introduction
-Welcome to the Solana Mobile Stack SDK. The Solana Mobile Stack provides key technologies for building Android applications that can interact with the Solana network.
+Welcome to the Solana Mobile Stack SDK. The Solana Mobile Stack provides key technologies for building Android applications that can interact with the Solana network.https://github.com/solana-mobile/solana-mobile-stack-sdk.git
 
 ## Development community
 Come and discuss the Solana Mobile Stack on our Discord: [Solana Mobile Discord](https://discord.gg/solanamobile)
@@ -9,16 +9,16 @@ Come and discuss the Solana Mobile Stack on our Discord: [Solana Mobile Discord]
 Follow us on Twitter: [@Solanamobile](https://twitter.com/Solanamobile)
 
 ## Building for the Solana Mobile Stack
-Building for the Solana Mobile Stack is, at its core, building for Android. The SDK provides enabling libraries for wallets and apps, allowing developers to create rich mobile experiences for the Solana network. Whether you are developing a mobile-friendly web app, a React Native Android app, or a native mobile wallet app, these libraries, samples, and reference implementations will help you to use the Solana network on Android devices.
+Building for the Solana Mobile Stack is, at its core, building for Android. The SDK provides enabling libraries for wallets and apps, allowing developers to create rich mobile experiences for the Solana network. Whether you are developing a mobile-friendly web app, a React Native Android app, or a native mobile wallet app, these libraries, samples, and reference implementations will help you to use the Solana network on Android devices.https://github.com/solana-mobile/solana-mobile-stack-sdk.git
 
 ## What’s in the Solana Mobile Stack?
 
 ### Mobile Wallet Adapter
 https://github.com/solana-mobile/mobile-wallet-adapter
 
-Mobile Wallet Adapter is a protocol specification for connecting apps to Wallets on mobile devices. It allows Wallet apps to provide transaction signing services for different types of apps on mobile devices: both mobile-friendly web apps running in the browser, as well as native apps, whether built using React Native, or traditional Kotlin or Java apps. The protocol is not limited to Android devices either; it envisions similar support for iOS devices, as well as the capability of Wallet apps to provide signing services to applications running remotely, such as on other mobile devices, and on desktop or laptop computers.
+Mobile Wallet Adapter is a protocol specification for connecting apps to Wallets on mobile devices. It allows Wallet apps to provide transaction signing services for different types of apps on mobile devices: both mobile-friendly web apps running in the browser, as well as native apps, whether built using React Native, or traditional Kotlin or Java apps. The protocol is not limited to Android devices either; it envisions similar support for iOS devices, as well as the capability of Wallet apps to provide signing services to applications running remotely, such as on other mobile devices, and on desktop or laptop computers.https://github.com/solana-mobile/solana-mobile-stack-sdk.git
 
-This SDK includes a draft version of the Mobile Wallet Adapter protocol specification, which will be completed in the coming weeks in collaboration with the open-source Solana community. It includes a reference implementation of the protocol for both wallets and apps, for local use cases.
+This SDK includes a draft version of the Mobile Wallet Adapter protocol specification, which will be completed in the coming weeks in collaboration with the open-source Solana community. It includes a reference implementation of the protocol for both wallets and apps, for local use cases.https://github.com/solana-mobile/solana-mobile-stack-sdk.git
 
 While this protocol is first announced with the [Saga](https://solanamobile.com), it is designed to be implemented on any mobile device. With community support, this is intended to be the mobile analogue of [wallet-adapter](https://github.com/solana-labs/wallet-adapter).
 
